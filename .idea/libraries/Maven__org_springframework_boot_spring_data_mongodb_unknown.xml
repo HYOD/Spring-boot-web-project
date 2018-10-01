@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-data-mongodb:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-data-mongodb/unknown/spring-data-mongodb-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-data-mongodb/unknown/spring-data-mongodb-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-data-mongodb/unknown/spring-data-mongodb-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
